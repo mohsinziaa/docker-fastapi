@@ -1,0 +1,9 @@
+# Ignore Docker-related files
+*.log
+*.tar
+*.gz
+*.db
+.docker
+.dockerignore
+demo.mp4
+docker-demo.mp4
