@@ -1,5 +1,3 @@
-Here is a sample `README.md` file for your project:
-
 # FastAPI Mock Model Prediction API
 
 This project implements an asynchronous FastAPI-based API for simulating model predictions. It uses Redis for storing prediction statuses and results. The application supports both synchronous and asynchronous prediction processing.
